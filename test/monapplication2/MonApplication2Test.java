@@ -43,7 +43,10 @@ public class MonApplication2Test {
     @Test
     public void testMain() {
         System.out.println("main");
-       
+       String[] args = null;
+        MonApplication2(args);
+        // TODO review the generated test code and remove the default call to fail.
+        fail("The test case is a prototype.");
     }
     
 }
