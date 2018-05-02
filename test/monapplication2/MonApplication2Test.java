@@ -43,7 +43,7 @@ public class MonApplication2Test {
     @Test
     public void testMain() {
         System.out.println("main");
-       
+       wc;
     }
     
 }
